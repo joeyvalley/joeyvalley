@@ -1,3 +1,4 @@
 ###
 
-![alt text](./assets/smiley.png)
+![alt text](./assets/smile.png)
+

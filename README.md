@@ -1,7 +1,7 @@
 ###
 
 ![alt text](./assets/smiley.png)
-<p style="border: 1px dash white; display: flex; justify-content: space-between; margin-top: 50px;">
+<p style="display: flex; justify-content: space-between; margin-top: 50px;">
 <span><a href="mailto:josephrvalle@gmail.com">୧-⩋𝛼𝔦ட</a></span>
 <span>෴</span>
 <span><a href="https://other-exotica.net">𝛒סꞃ𝑡🝡0ட𝔦𝕺</a></span>

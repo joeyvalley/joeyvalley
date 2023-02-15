@@ -1,5 +1,5 @@
 ### 
-&#128231;
+&#128231; <a href="mailto:josephrvalle@gmail.com">josephrvalle@gmail.com</a>
 
 <!--
 **joeyvalley/joeyvalley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
